@@ -1,0 +1,11 @@
+${AnsiColor.40}                                                                                                .         .                                        ${AnsiColor.DEFAULT}
+${AnsiColor.40}     8888888 8888888888           8 8888888888             b.             8                    ,8.       ,8.                        ,o888888o.     ${AnsiColor.DEFAULT}
+${AnsiColor.34}           8 8888                 8 8888                   888o.          8                   ,888.     ,888.                    . 8888     `88.   ${AnsiColor.DEFAULT}
+${AnsiColor.34}           8 8888                 8 8888                   Y88888o.       8                  .`8888.   .`8888.                  ,8 8888       `8b  ${AnsiColor.DEFAULT}
+${AnsiColor.34}           8 8888                 8 8888                   .`Y888888o.    8                 ,8.`8888. ,8.`8888.                 88 8888        `8b ${AnsiColor.DEFAULT}
+${AnsiColor.2}           8 8888                 8 888888888888           8o. `Y888888o. 8                ,8'8.`8888,8^8.`8888.                88 8888         88 ${AnsiColor.DEFAULT}
+${AnsiColor.2}           8 8888                 8 8888                   8`Y8o. `Y88888o8               ,8' `8.`8888' `8.`8888.               88 8888         88 ${AnsiColor.DEFAULT}
+${AnsiColor.28}           8 8888                 8 8888                   8   `Y8o. `Y8888              ,8'   `8.`88'   `8.`8888.              88 8888        ,8P ${AnsiColor.DEFAULT}
+${AnsiColor.28}           8 8888                 8 8888                   8      `Y8o. `Y8             ,8'     `8.`'     `8.`8888.             `8 8888       ,8P  ${AnsiColor.DEFAULT}
+${AnsiColor.22}           8 8888                 8 8888                   8         `Y8o.`            ,8'       `8        `8.`8888.             ` 8888     ,88'   ${AnsiColor.DEFAULT}
+${AnsiColor.22}           8 8888                 8 888888888888           8            `Yo           ,8'         `         `8.`8888.               `8888888P'     ${AnsiColor.DEFAULT}
